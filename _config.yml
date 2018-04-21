@@ -1,10 +1,5 @@
 remote_theme: artemsheludko/monday
 
-title: Viktor Arsovski
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
 # Profile information
 name: Viktor Arsovski
@@ -23,21 +18,3 @@ skype: viktor__arsovski
 medium: '@viksaaskool'
 wordpress blog: viksaaskool.wordpress.com
 reddit: viksaaskool
-
-
-# Tracker
-analytics:
-
-# Comments
-discus-identifier: # Add your Disqus identifier
-
-# Important settings
-assets:
-  sources:
-    - assets/fonts
-    - assets/img
-    - assets/js
-    - assets/stylesheets
-
-
-include: [_pages]
