@@ -23,10 +23,10 @@ layout: default
           <li class="email"><a href="mailto:sheludkoartem@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> sheludkoartem@gmail.com</a></li>
         {% endif %}
 
-        {% if site.phone %}
-          <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i> {{site.phone}}</a></li>
+        {% if site.skype %}
+          <li class="phone"><a href="tel:{{site.skype }}"><i class="fab fa-skype"></i> {{site.skype}}</a></li>
         {% else %}
-          <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i> 044 825 5523</a></li>
+          <li class="phone"><a href="tel:044 825 5523"><i class="fab fa-skype" aria-hidden="true"></i>viktor__arsovski</a></li>
         {% endif %}
 
         {% if site.website %}
@@ -51,6 +51,18 @@ layout: default
           <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i> {{site.twitter}}</a></li>
         {% else %}
           <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @artemsheludko_</a></li>
+        {% endif %}
+
+        {% if site.medium %}
+          <li class="twitter"><a href="https://medium.com/{{site.medium}}" target="_blank"><i class="fab fa-medium"></i> {{site.medium}}</a></li>
+        {% else %}
+          <li class="twitter"><a href="https://medium.com/@viksaaskool" target="_blank"><i class="fab fa-medium" aria-hidden="true"></i>@viksaaskool</a></li>
+        {% endif %}
+
+        {% if site.wordpress %}
+          <li class="twitter"><a href="https:{{site.wordpress}}.wordpress.com" target="_blank"><i class="fab fa-wordpress-simple"></i> {{site.wordpress}}</a></li>
+        {% else %}
+          <li class="twitter"><a href="https://viksaaskool.wordpress.com" target="_blank"><i class="fab fa-wordpress-simple" aria-hidden="true"></i>viksaaskool</a></li>
         {% endif %}
 
       </ul>
