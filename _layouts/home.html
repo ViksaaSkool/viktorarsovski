@@ -48,16 +48,16 @@ layout: default
         {% endif %}
 
         {% if site.twitter %}
-          <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i> @{{site.twitter}}</a></li>
+          <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i> {{site.twitter}}</a></li>
         {% else %}
-          <li class="twitter"><a href="https://twitter.com/SkoolDev" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>@SkoolDev</a></li>
+          <li class="twitter"><a href="https://twitter.com/SkoolDev" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>SkoolDev</a></li>
         {% endif %}
 
         {% if site.medium %}
           <li class="twitter"><a href="https://medium.com/{{site.medium}}" target="_blank"><i class="fa fa-medium"></i> medium/{{site.medium}}</a></li>
         {% else %}
           <li class="twitter"><a href="https://medium.com/@viksaaskool" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i> medium/@viksaaskool</a></li>
-        {% endif %}        
+        {% endif %}
 
         {% if site.stackoverflow %}
           <li class="stackoverflow"><a href="https://stackoverflow.com/{{site.stackoverflow}}" target="_blank"><i class="fa fa-stack-overflow"></i> stackoverflow/viksaaskool</a></li>
