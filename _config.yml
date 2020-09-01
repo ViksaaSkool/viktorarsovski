@@ -2,22 +2,25 @@ remote_theme: artemsheludko/monday
 
 title: Viktor Arsovski
 description: > # this means to ignore newlines until "baseurl:"
-  Viktor Arsovski Senior Android Software engineer.
-  Enthusiasm in Java, Kotlin, Node.js.
-  Evolutionary psychology, football (soccer), snowboarding
+  Viktor Arsovski Senior Software engineer.
+  Coding: Android (Kotlin&Java) and Python.
+  Learning/Open to: Kotlin Multiplatform amd Flutter
+  Other interests: Stand up comedy, evolutionary psychology, snowbarding, football.
+  Overall: very interesting person.
 
 # Profile information
 name: Viktor Arsovski
 tagline: Senior Software Engineer
-about-description: <p>I have 6 years of software engineering experience, have worked on web and mobile projects for small startups and large organizations. While I do have experience in web projects, frontend and a bit backend while developing web based projects, my passion and main focus for the past 4 years has been Android. That alongside the emerging implementation of AI and IOT is the front line of innovation that I'd love to be part of.</p><p>On that note, contributing and sharing code is very important, trough the years I've tried to convert some atypical solutions to my work-related challenges and problems into libraries (for more check out my Github). If it can't be a library, yet there is a lesson learned, I share that, with the developers of the Internet, too. Bugs, edge cases that I come across and just my ideas, they all have the habit of becoming blog posts. Used to blog on wordpress, but now, like all the cool kids, I'm doing that on medium. </p>
-pic: 79.png
+about-description: <p>As far as I can remember I always wanted to be a gangster. (Goodfellas opening theme starts playing)</p><p>I have been professional software engineer since 2011, have worked on web and mobile projects for small startups and large organizations. While I do have experience in web projects, frontend and a bit backend while developing web based projects, my passion and main focus since 2013 has been Android. That alongside the emerging implementation of AI and IOT is the front line of innovation that I'd love to be part of.</p><p>On that note, contributing and sharing code is very important, trough the years I've tried to convert some atypical solutions to my work-related challenges and problems into libraries (for more check out my Github). If it can't be a library, yet there is a lesson learned, I share that, with the developers of the Internet, too. Bugs, edge cases that I come across and just my ideas, they all have the habit of becoming blog posts.</p>
+<p>Since 2019 I've got really interested in learning Python, which was a gateway drug to data science. Things might get serious (if you're reading this in 2025 let me know what happened), but for now I try to keep up with it mostly in after hours.</p>
+pic: 80.png
 
 # Contact links
 email: contact@viktorarsovski.xyz
 website: viktorarsovski.xyz
 linkedin: varsovski
 github: ViksaaSkool
-twitter: '@ViksaaSkool'
+twitter: '@SkoolDev'
 skype: viktor__arsovski
 medium: '@viksaaskool'
 wordpress: viksaaskool
