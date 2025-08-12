@@ -14,9 +14,9 @@ tagline: Senior Software Engineer | Android • Kotlin • Java • Jetpack Comp
 about-description: >
   <p>As far back as I can remember I always wanted to be a software engineer. (Goodfellas <a href="https://youtu.be/_tvhQAitc1g?si=YOkWnrluxuLWGVJ6">opening theme</a> starts playing)</p>
   <p>I've been living the dream, being a professional software engineer since 2011. In that time I have worked on web and mobile projects for small startups and large organizations. My main focus is building and maintaing Android mobile applications (using Java na Kotlin) with interested in KMP. As of recently I'm also been part of a backend engineering team of an enterprise solution basen on Java Spring Boot.\n With my experience in the field and the help of this new thing called generative AI, I'm more than willing to explore corners of the engineering space I haven't before.</p>
-  <p>Contributing and sharing code is very important, trough the years I've tried to convert some atypical solutions to my work-related challenges and problems into libraries (for more check out my Github). If it can't be a library, yet there is a lesson learned, I share that, with the developers of the Internet, too. Bugs, edge cases that I come across and just my ideas, they all have the habit of becoming blog posts.\nDroidcon regular as an atendee and a speaker.</p>
-  <p>Since 2019 I've got really interested in learning Python, which was a gateway drug to data science. The addiction turned into MSc in Intelligent Information Systems: "Analysis of the relationship between news and jokes on online platforms". Recently, I've been using my Python powers to work on my pet projects, that have also yielded some blog posts.</p>
-pic: 90.png
+  <p>Contributing and sharing code is very important, trough the years I've tried to convert some atypical solutions to my work-related challenges and problems into libraries (for more check out my Github). If it can't be a library, yet there is a lesson learned, I share that, with the developers of the Internet, too. Bugs, edge cases that I come across and just my ideas, they all have the habit of becoming blog posts.\n Droidcon regular as an atendee and a speaker.</p>
+  <p>Since 2019 I've got really interested in learning Python, which was a gateway drug to data science. The addiction turned into MSc in Intelligent Information Systems: "Analysis of the relationship between news and jokes on online platforms". I've been using my Python powers (Flask and FastAPI) to work on my pet projects.</p>
+pic: 91.png
 
 # Contact links
 email: contact@viktorarsovski.xyz
@@ -24,8 +24,9 @@ website: viktorarsovski.xyz
 linkedin: varsovski
 github: ViksaaSkool
 twitter: '@SkoolDev'
-skype: viktor__arsovski
 medium: '@viksaaskool'
 wordpress: viksaaskool
 stackoverflow: users/1036120/viksaaskool
 reddit: viksaaskool
+devto: viksaaskool
+sessionize: viktor-arsovski
