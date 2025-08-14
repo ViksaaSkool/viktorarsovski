@@ -56,9 +56,11 @@
   }
 
   img.face {
-    border-radius: 50%;
-    width: clamp(120px, 20vw, 200px); // min: 120px, preferred: 20% of viewport width, max: 200px
-    height: auto;
+  border-radius: 50%;
+  width: clamp(80px, 40vw, 200px); // scales with viewport
+  height: auto;
+  display: block;
+  margin: 0 auto;
   }
 }
 

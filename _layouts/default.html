@@ -1,40 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<video autoplay muted loop playsinline id="bg-video">
+  <source src="{{ '/assets/video/background.mp4' | relative_url }}" type="video/mp4">
+</video>
 
-  {% include head.html %}
+{% include head.html %}
 
-   <style>
-    /* Make video fill the screen */
-    #bg-video {
-      position: fixed;
-      top: 0;
-      left: 0;
-      min-width: 100%;
-      min-height: 100%;
-      z-index: -1;
-      object-fit: cover;
-    }
-  </style>
+</style>
 
-  <body>
+<body>
 
-    <!-- Background video -->
-    <video autoplay muted loop id="bg-video">
-      <source src="{{site.baseurl}}/assets/video/background.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
 
-    {% include footer.html %}
-    {% include javascripts.html %}
-    {% include analytics.html %}
-  </body>
+  {% include footer.html %}
+  {% include javascripts.html %}
+  {% include analytics.html %}
+</body>
 
 </html>
