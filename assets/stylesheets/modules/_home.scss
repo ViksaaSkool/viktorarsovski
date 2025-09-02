@@ -32,8 +32,11 @@
   .container-face {
     margin-bottom: 1rem;
     text-align: center;
-  }
 
+      img.face {
+        width: 100%;
+      }
+  }
 
   .tagline {
     font-size: 1.1rem;
@@ -53,14 +56,6 @@
       margin-top: 0.9rem;
       background-color: $about-tagline-border;
     }
-  }
-
-  img.face {
-  border-radius: 50%;
-  width: clamp(80px, 40vw, 200px); // scales with viewport
-  height: auto;
-  display: block;
-  margin: 0 auto;
   }
 }
 
